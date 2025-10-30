@@ -1,0 +1,35 @@
+{
+  "warehouse_address": "Jalan Bangkingan No. 81, Surabaya",
+  "office_address": "Ruko Harvest One HO29 Perumahan Grandharvest, Surabaya",
+  "contact": {
+    "whatsapp": "6285398981032",
+    "phone": "0319975443",
+    "email": "besinusantara@gmail.com"
+  },
+  "social": {
+    "instagram": "https://instagram.com/besinusantara.id",
+    "maps": "https://www.google.com/maps"
+  },
+  "links": {
+    "company": [
+      {
+        "name": "Tentang Kami",
+        "href": "https://www.besinusantara.com/about"
+      },
+      {
+        "name": "Artikel",
+        "href": "https://www.besinusantara.com/artikel"
+      }
+    ],
+    "help": [
+      {
+        "name": "FAQ",
+        "href": "https://www.besinusantara.com/faq"
+      },
+      {
+        "name": "Kebijakan Privasi",
+        "href": "https://www.besinusantara.com/privacy"
+      }
+    ]
+  }
+}

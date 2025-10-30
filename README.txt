@@ -1,0 +1,1 @@
+Extended collections: sub_categories, popular_searches, article_cta, footer. Upload to public_html, ensure data/ writable, access /admin/.
