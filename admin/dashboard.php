@@ -52,13 +52,13 @@
 
 <script>
 const fields={
-  hero:['image','title','subtitle'],
-  categories:['name','image'],
-  sub_categories:['name','image'],
-  featured_products:['name','price','image'],
-  popular_searches:['name','price','image'],
-  new_products:['name','price','image'],
-  partners:['logo'],
+  hero:['image','title','subtitle','link'],
+  categories:['name','image','link'],
+  sub_categories:['name','image','link'],
+  featured_products:['name','price','image','link'],
+  popular_searches:['name','price','image','link'],
+  new_products:['name','price','image','link'],
+  partners:['logo','link'],
   testimonials:['name','text']
 };
 async function load(n){return (await fetch('../api/read.php?name='+n)).json()}
