@@ -1,14 +1,17 @@
 [
   {
     "name": "Besi Hollow dan Pipa Bulat",
-    "image": "https://www.besinusantara.com/uploads/images/category_pipa_besi.webp"
+    "image": "https://www.besinusantara.com/uploads/images/category_pipa_besi.webp",
+    "link": "/kategori/besi/besi-hollow-dan-pipa-bulat"
   },
   {
     "name": "Besi Kawat",
-    "image": "https://www.besinusantara.com/uploads/images/category_besi_kawat.webp"
+    "image": "https://www.besinusantara.com/uploads/images/category_besi_kawat.webp",
+    "link": "/kategori/besi/besi-kawat"
   },
   {
     "name": "Plat Besi",
-    "image": "https://www.besinusantara.com/uploads/images/category_plat_besi.webp"
+    "image": "https://www.besinusantara.com/uploads/images/category_plat_besi.webp",
+    "link": "/kategori/besi/plat-besi"
   }
 ]

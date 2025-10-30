@@ -2,16 +2,19 @@
   {
     "image": "https://www.besinusantara.com/uploads/images/slla-1.jpg",
     "title": "Distributor Besi & Baja",
-    "subtitle": "Surabaya"
+    "subtitle": "Surabaya",
+    "link": "/services"
   },
   {
     "image": "https://www.besinusantara.com/uploads/images/slla-5.jpg",
     "title": "Pengiriman Cepat",
-    "subtitle": "Jangkauan luas"
+    "subtitle": "Jangkauan luas",
+    "link": "/produk"
   },
   {
     "image": "https://www.besinusantara.com/uploads/images/slla-3.jpg",
     "title": "Kualitas Terbaik",
-    "subtitle": "Harga Kompetitif"
+    "subtitle": "Harga Kompetitif",
+    "link": "/harga"
   }
 ]

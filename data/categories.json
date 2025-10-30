@@ -1,14 +1,17 @@
 [
   {
     "name": "Besi",
-    "image": "https://www.besinusantara.com/uploads/images/kategori (2).jpg"
+    "image": "https://www.besinusantara.com/uploads/images/kategori (2).jpg",
+    "link": "/kategori/besi"
   },
   {
     "name": "Plastik",
-    "image": "https://www.besinusantara.com/uploads/images/kategori (1).jpg"
+    "image": "https://www.besinusantara.com/uploads/images/kategori (1).jpg",
+    "link": "/kategori/plastik"
   },
   {
     "name": "Stainless Steel",
-    "image": "https://www.besinusantara.com/uploads/images/kategori (3).jpg"
+    "image": "https://www.besinusantara.com/uploads/images/kategori (3).jpg",
+    "link": "/kategori/stainless-steel"
   }
 ]
