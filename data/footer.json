@@ -14,21 +14,21 @@
     "company": [
       {
         "name": "Tentang Kami",
-        "href": "https://www.besinusantara.com/about"
+        "href": "/about"
       },
       {
         "name": "Artikel",
-        "href": "https://www.besinusantara.com/artikel"
+        "href": "/artikel"
       }
     ],
     "help": [
       {
         "name": "FAQ",
-        "href": "https://www.besinusantara.com/faq"
+        "href": "/faq"
       },
       {
         "name": "Kebijakan Privasi",
-        "href": "https://www.besinusantara.com/privacy"
+        "href": "/privacy"
       }
     ]
   }
